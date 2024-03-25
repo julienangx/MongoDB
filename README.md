@@ -1,4 +1,5 @@
-# Projet MongoDB de moi
+# Projet MongoDB de moi et Wilfried
+# (Julien ANGENIEUX et Wilfried DUPONT)
 
 ## Installation
 1. Clonez
